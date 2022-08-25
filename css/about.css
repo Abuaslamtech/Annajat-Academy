@@ -68,6 +68,7 @@
 }
 .team__member-image img{
     filter: saturate(0);
+    height: 15rem;
 }
 .team__member:hover img{
     filter: saturate(1);
